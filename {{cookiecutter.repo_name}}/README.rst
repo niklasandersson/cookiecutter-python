@@ -25,17 +25,17 @@ Usage
 Contributing
 ============
 
-See `CONTRIBUTING.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CONTRIBUTING.rst>`_.
+See `CONTRIBUTING.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CONTRIBUTING.rst>`_
 
 Changelog
 =========
 
-See `CHANGELOG.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CHANGELOG.rst>`_.
+See `CHANGELOG.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CHANGELOG.rst>`_
 
 Licence
 =======
 
-See `LICENCE.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/LICENCE.rst>`_.
+See `LICENCE.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/LICENCE.rst>`_
 
 Authors
 =======
@@ -49,4 +49,4 @@ Contributors
 ------------
 
 Want to be the first to help out?
-Checkout `CONTRIBUTING.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CONTRIBUTING.rst>`_.
+Checkout `CONTRIBUTING.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CONTRIBUTING.rst>`_
