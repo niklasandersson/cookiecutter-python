@@ -32,10 +32,10 @@ Changelog
 
 See `CHANGELOG.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/CHANGELOG.rst>`_
 
-Licence
+License
 =======
 
-See `LICENCE.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/LICENCE.rst>`_
+See `LICENSE.rst <https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/blob/master/LICENSE.rst>`_
 
 Authors
 =======
