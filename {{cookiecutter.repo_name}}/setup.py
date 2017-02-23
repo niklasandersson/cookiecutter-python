@@ -6,6 +6,7 @@ setup(
     url='{{cookiecutter.github_url}}',
     author='{{cookiecutter.full_name}}',
     author_email='{{cookiecutter.email}}',
+    license='{{cookiecutter.license}}'
     description='{{cookiecutter.description}}',
     packages=find_packages(),
     include_package_data=True,
