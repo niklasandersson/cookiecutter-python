@@ -1,6 +1,10 @@
 {
   "full_name": "Niklas Andersson",
   "email": "me@niklasandersson.net",
+  "github_username": "niklasandersson",
   "project_name": "",
-  "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_')}}"
+  "version": "0.0.1",
+  "description": "This is a Python project.",
+  "repo_name": "{{cookiecutter.project_name.lower().replace(' ', '_')}}",
+  "github_url": "http://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/"
 }
