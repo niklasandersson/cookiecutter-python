@@ -4,7 +4,8 @@
   "github_username": "niklasandersson",
   "project_name": "",
   "version": "0.0.1",
-  "description": "This is a Python project.",
+  "catchphrase": "a Python project that will change the world",
+  "description": "{{cookiecutter.project_name}} is a Python project...",
   "repo_name": "{{cookiecutter.project_name.lower().replace(' ', '_')}}",
-  "github_url": "http://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/"
+  "github_url": "https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}/"
 }
